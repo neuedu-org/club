@@ -5,6 +5,12 @@
 - [infoQ](http://www.infoq.com)
 - [OSChina](https://www.oschina.net)
 
+### Blog
+- [寥雪峰](https://www.liaoxuefeng.com)
+
+### Tools
+- [API , 加密转码 , Http , 测试工具 , 二维码](http://tool.oschina.net/)
+
 ### TMT Analysys & Report
 - [阿里研究院](http://www.aliresearch.com/)
 - [阿里智库](https://zhiku.1688.com)
