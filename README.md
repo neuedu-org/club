@@ -12,5 +12,5 @@
 - [腾讯研究院](http://tisi.org)
 - [企鹅智库](http://re.qq.com)
 - [企鹅智库-2](http://tech.qq.com/biznext/bizlist.htm)
-- [Analysys易观](https://www.analysys.cn/analysys/trade)
+- [Analysys易观](https://www.analysys.cn/analysys/trade/)
 - [数据观](http://www.cbdio.com)
