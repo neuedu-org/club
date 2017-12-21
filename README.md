@@ -5,7 +5,7 @@
 - [infoQ](http://www.infoq.com)
 - [OSChina](https://www.oschina.net)
 
-### 行业趋势数据分析
+### TMT Analysys & Report
 - [阿里研究院](http://www.aliresearch.com/)
 - [阿里智库](https://zhiku.1688.com)
 - [club1688](https://club.1688.com)
@@ -14,3 +14,4 @@
 - [企鹅智库-2](http://tech.qq.com/biznext/bizlist.htm)
 - [Analysys易观](https://www.analysys.cn/analysys/trade/)
 - [数据观](http://www.cbdio.com)
+- [199IT](http://www.199it.com)
